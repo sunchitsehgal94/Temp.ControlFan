@@ -14,4 +14,4 @@ The hardware for the fan is pretty basic, wherein we have used:
 The analog output from the LM35 temperature sensor is converted into actual temperature value using
 tempC= (5.0*tempC*100.0)/1024.0;
 
-  The processing code provides a graphical visual of the temperature versus time graph.
+  The processing code provides the output of the temperature sensor in the form of temperature versus time graph.
